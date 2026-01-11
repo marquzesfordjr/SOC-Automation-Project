@@ -74,14 +74,3 @@ GitHub: [markfordjr](https://github.com/markfordjr)
 ## 📝 License
 
 This project is available under the [MIT License](LICENSE).
-
----
-
-### ✅ Why This Works
-
-* **Clear objective** and scope
-* **User-friendly setup** steps
-* **Professional structure** that aligns with recruiter expectations
-* **Scalability & future roadmap** indicate serious thinking and vision
-
----
